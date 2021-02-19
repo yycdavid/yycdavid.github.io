@@ -118,17 +118,7 @@
   </url>
   
   <url>
-    <loc></loc>
-    <lastmod>2021-02-19T16:15:38-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://yycdavid.github.io/publication-type/1/</loc>
-    <lastmod>2021-02-19T16:15:38-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
     <lastmod>2021-02-19T16:15:38-05:00</lastmod>
   </url>
   
@@ -214,6 +204,14 @@
   
   <url>
     <loc>https://yycdavid.github.io/admin/</loc>
+  </url>
+  
+  <url>
+    <loc></loc>
+  </url>
+  
+  <url>
+    <loc></loc>
   </url>
   
 </urlset>
